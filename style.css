@@ -57,7 +57,7 @@ body{
     }
     
     .cake > * {
-    position: relative;
+    position: absolute;
     }
     .candle {
     background-color: #7B020B;

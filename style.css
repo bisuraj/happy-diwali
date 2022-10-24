@@ -57,7 +57,7 @@ body{
     }
     
     .cake > * {
-    position: absolute;
+    position: relative;
     }
     .candle {
     background-color: #7B020B;
@@ -174,15 +174,6 @@ body{
         }
     }
     
-    .credit a{
-        text-decoration: none;
-        color: #000;
-        font-weight: 900;
-      }
-      
-      .credit {
-          font-family: Verdana, Geneva, Tahoma, sans-serif;
-          font-size: 10px;
-      }
+
     
     

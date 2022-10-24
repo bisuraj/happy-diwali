@@ -48,7 +48,7 @@ body{
     }
     
     .cake {
-    position:absolute;
+    position:relative;
     width: 250px;
     height: 200px;
     top: 62%;
@@ -58,7 +58,7 @@ body{
     }
     
     .cake > * {
-    position: absolute;
+    position: relative;
     }
     .candle {
     background-color: #7B020B;
@@ -76,7 +76,7 @@ body{
     }
     .candle:before {
     content: "";
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
     width: 100px;
